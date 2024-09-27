@@ -1,0 +1,21 @@
+{
+  "name": "todo-hon-bun-app",
+  "module": "server/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "bun run server/server.js",
+    "dev": "bun run server/server.js --watch"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "hono": "^4.6.3",
+    "mysql2": "^3.11.3",
+    "sequelize": "^6.37.3"
+  }
+}

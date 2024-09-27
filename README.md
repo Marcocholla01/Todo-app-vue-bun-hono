@@ -42,7 +42,7 @@ Make sure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/marcocholla01/todo-project.git
+   git clone https://github.com/marcocholla01/todo-hon-bun-app.git
    ```
 
 2. Navigate to the project directory:
@@ -130,7 +130,7 @@ For any inquiries or support, please reach out to [marcochollapaul01@gmail.com](
 
 ## Issues
 
-If you encounter any issues, please check the [Issues](https://github.com/marcocholla01/todo-project/issues) section or submit a new issue.
+If you encounter any issues, please check the [Issues](https://github.com/marcocholla01/todo-hon-bun-app/issues) section or submit a new issue.
 
 ## Coffee
 
